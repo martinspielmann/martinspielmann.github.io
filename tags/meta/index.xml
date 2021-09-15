@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on Martins Blog</title>
+    <link>https://martinspielmann.de/tags/meta/</link>
+    <description>Recent content in meta on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 12:50:48 +0100</lastBuildDate><atom:link href="https://martinspielmann.de/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://martinspielmann.de/2020-02-20-first-post/</link>
+      <pubDate>Thu, 20 Feb 2020 12:50:48 +0100</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-02-20-first-post/</guid>
+      <description>This is my first post, how exciting!
+I will try to dig deeper into everything that went wrong during the working days describe it here, so you do not have to figure out the same pitfalls again. I&amp;rsquo;d love if you join me and send me your daily bad examples. You can do so via any channel you like, the preferred way is to create an issue or PR on codeberg.</description>
+    </item>
+    
+  </channel>
+</rss>

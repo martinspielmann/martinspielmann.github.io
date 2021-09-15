@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Martins Blog</title>
+    <link>https://martinspielmann.de/page/</link>
+    <description>Recent content in Pages on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://martinspielmann.de/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://martinspielmann.de/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/page/about/</guid>
+      <description>There are countless resources online guiding and teaching you how to design and implement things right. The idea of this blog is doing it the other way round: provide information to not do things wrong.</description>
+    </item>
+    
+  </channel>
+</rss>

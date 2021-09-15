@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protoduction on Martins Blog</title>
+    <link>https://martinspielmann.de/tags/protoduction/</link>
+    <description>Recent content in protoduction on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/protoduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to avoid protoduction fails</title>
+      <link>https://martinspielmann.de/2020-10-03-how-to-avoid-protoduction-fails/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-10-03-how-to-avoid-protoduction-fails/</guid>
+      <description>How to avoid protoduction fails  &amp;ldquo;Protoduction: a prototype that ends up in production.&amp;rdquo;
+ Disclaimer first, this term isn&amp;rsquo;t new and appeared on the internet™ in 2011 already. And as you already might suspect, the term has a negative connotation. But why is that? After all, prototypes are built so that the solution will eventually end up in production, aren&amp;rsquo;t they?
+What&amp;rsquo;s the problem?  &amp;ldquo;A prototype is a simple experimental model of a proposed solution used to test or validate ideas, design assumptions, and other aspects of its conceptualization quickly and cheaply so that the designers involved can make appropriate refinements or possible changes in direction.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Martins Blog</title>
+    <link>https://martinspielmann.de/post/</link>
+    <description>Recent content in Posts on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting my offensive journey</title>
+      <link>https://martinspielmann.de/2021-09-13-starting-offensive-journey/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2021-09-13-starting-offensive-journey/</guid>
+      <description>As a security engineer in @kiongroup&amp;rsquo;s cyber defense center I help improving detection capabilities, do incident response, automate security processes and work on security best practices. Besides that I develop software at @main_defense.
+Although I&amp;rsquo;m fascinated by the creativity of sophisticated attacks, I feel like I&amp;rsquo;ve always been on the defender&amp;rsquo;s side. Time to change that! Today I will start my offensive journey to learn more about the attacker side and hoe to break things.</description>
+    </item>
+    
+    <item>
+      <title>Die Mär vom menschlichen Versagen in der IT-Sicherheit</title>
+      <link>https://martinspielmann.de/2021-03-24-die-mar-vom-menschlichen-versagen-in-der-it-sicherheit/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2021-03-24-die-mar-vom-menschlichen-versagen-in-der-it-sicherheit/</guid>
+      <description>Human Error. Allseits beliebt und gern herangezogen als ausgemachte Ursache zahlreicher Sicherheitsvorfälle der letzten Monate und Jahre. Die Daten verschlüsselt, das “Backup” feilgeboten, der Konzern blamiert. So weit, so normal. Umsatzeinbruch, Aktieneinbruch, Reputationsverlust.
+ Menschliches Versagen ist der Hauptgrund für 95% der Sicherheitsvorfälle https://blog.usecure.io/the-role-of-human-error-in-successful-cyber-security-breaches
+ Die Forensik rückt an, wertet die spärlichen und zur Hälfte wegrotierten Logs aus. Krisenstab, War Room, tagelang. Externe Experten überraschen mit Erkenntnissen zu möglichen Einfallstoren, die das interne Team seit vier Jahren an der Kaffeemaschine vorbetet.</description>
+    </item>
+    
+    <item>
+      <title>3 tips on how to save an insane amount of time on clickbait articles (plus 1 bonus)</title>
+      <link>https://martinspielmann.de/2021-01-16-3-tips-on-how-to-save-an-insane-amount-of-time-on-clickbait-articles/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2021-01-16-3-tips-on-how-to-save-an-insane-amount-of-time-on-clickbait-articles/</guid>
+      <description>3 tips on how to save an insane amount of time on clickbait articles (plus 1 bonus) &amp;ldquo;AI in medical devices, course or blessing&amp;rdquo;, &amp;ldquo;12 ways to earn passive money with no efforts&amp;rdquo;. You are scrolling through social media, click some headlines like the aforementioned ones and an hour later you ask yourself why your feet went to sleep on the toilet again.
+So here&amp;rsquo;s the ultimate chance to save your feet and a lot of time in the future.</description>
+    </item>
+    
+    <item>
+      <title>How to avoid protoduction fails</title>
+      <link>https://martinspielmann.de/2020-10-03-how-to-avoid-protoduction-fails/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-10-03-how-to-avoid-protoduction-fails/</guid>
+      <description>How to avoid protoduction fails  &amp;ldquo;Protoduction: a prototype that ends up in production.&amp;rdquo;
+ Disclaimer first, this term isn&amp;rsquo;t new and appeared on the internet™ in 2011 already. And as you already might suspect, the term has a negative connotation. But why is that? After all, prototypes are built so that the solution will eventually end up in production, aren&amp;rsquo;t they?
+What&amp;rsquo;s the problem?  &amp;ldquo;A prototype is a simple experimental model of a proposed solution used to test or validate ideas, design assumptions, and other aspects of its conceptualization quickly and cheaply so that the designers involved can make appropriate refinements or possible changes in direction.</description>
+    </item>
+    
+    <item>
+      <title>Subtle bug in Java standard library</title>
+      <link>https://martinspielmann.de/2020-04-13-java-remove-all-performance/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-04-13-java-remove-all-performance/</guid>
+      <description>I stumbled over an interesting Tweet from @relizarov stating
+ OMG! 😱Don&amp;rsquo;t use Set.removeAll(list) on JVM. You can get O(N^2). I have no words. Only emotions.
+ As I cound not believe that in the first place, I digged a little deeper and learned about a bug in the Java HashSet implementation with a very long history and finally a fix in sight. It provides a great insight into the complexity of simple things.</description>
+    </item>
+    
+    <item>
+      <title>Docker and UFW</title>
+      <link>https://martinspielmann.de/2020-02-21-docker-and-ufw/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-02-21-docker-and-ufw/</guid>
+      <description>The way Docker manipulates iptables actually bypasses ufw, which is the default firewall on Ubuntu systems. You can block a port, spin up a container and in a blink of an eye the blocked port will be open again. It will even bypass Any/Any/Deny rules. To make the magic happen just follow the steps below.
+Details Lets see how to reproduce this in detail with the example of a Tomcat container.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://martinspielmann.de/2020-02-20-first-post/</link>
+      <pubDate>Thu, 20 Feb 2020 12:50:48 +0100</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-02-20-first-post/</guid>
+      <description>This is my first post, how exciting!
+I will try to dig deeper into everything that went wrong during the working days describe it here, so you do not have to figure out the same pitfalls again. I&amp;rsquo;d love if you join me and send me your daily bad examples. You can do so via any channel you like, the preferred way is to create an issue or PR on codeberg.</description>
+    </item>
+    
+  </channel>
+</rss>
