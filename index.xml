@@ -6,7 +6,20 @@
     <description>Recent content on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was bei Log4Shell falsch läuft</title>
+      <link>https://martinspielmann.de/2020-12-14-was-bei-log4shell-falsch-laeuft/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2020-12-14-was-bei-log4shell-falsch-laeuft/</guid>
+      <description>Ich muss mich mal auskotzen. Nicht über die Lücke selbst und den Fallout, der uns sicher noch die nächsten Monate begleiten wird, schlimm genug.
+Sondern über Leute, die jetzt tatsächlich meinen, die log4j Maintainer anranzen zu müssen.
+ Was sind das für Anfänger? Die sollten das bezahlen! Nicht zu fassen sowas!&amp;quot;
+ &amp;hellip;wacht mal auf!
+Die Maintainer sind drei Menschen, die ein Projekt am Fliegen halten, das millionenfach in Unternehmen überall auf der Welt genutzt wird.</description>
+    </item>
+    
     <item>
       <title>Starting my offensive journey</title>
       <link>https://martinspielmann.de/2021-09-13-starting-offensive-journey/</link>
@@ -106,8 +119,8 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://martinspielmann.de/imprint/</guid>
-      <description>Angaben gemäß § 5 TMG: Martin Spielmann Jahnstr. 31 63834 Sulzbach
-Kontakt Telefon: +49 151 407 48 295 E-Mail: mail@martinspielmann.de Umsatzsteuer-ID Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: 204/275/51548 Link zur Datenschutzerklärung </description>
+      <description>Angaben gemäß § 5 TMG: Martin Spielmann Spessartstr. 27 63849 Leidersbach
+Kontakt Telefon: +49 151 407 48 295 E-Mail: mail@martinspielmann.de Link zur Datenschutzerklärung </description>
     </item>
     
   </channel>
