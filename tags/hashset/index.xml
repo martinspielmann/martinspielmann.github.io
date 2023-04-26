@@ -14,8 +14,8 @@
       
       <guid>https://martinspielmann.de/2020-04-13-java-remove-all-performance/</guid>
       <description>I stumbled over an interesting Tweet from @relizarov stating
- OMG! 😱Don&amp;rsquo;t use Set.removeAll(list) on JVM. You can get O(N^2). I have no words. Only emotions.
- As I cound not believe that in the first place, I digged a little deeper and learned about a bug in the Java HashSet implementation with a very long history and finally a fix in sight. It provides a great insight into the complexity of simple things.</description>
+OMG! 😱Don&amp;rsquo;t use Set.removeAll(list) on JVM. You can get O(N^2). I have no words. Only emotions.
+As I cound not believe that in the first place, I digged a little deeper and learned about a bug in the Java HashSet implementation with a very long history and finally a fix in sight. It provides a great insight into the complexity of simple things.</description>
     </item>
     
   </channel>

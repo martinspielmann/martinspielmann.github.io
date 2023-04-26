@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big-corp-problems on Martins Blog</title>
+    <link>https://martinspielmann.de/tags/big-corp-problems/</link>
+    <description>Recent content in big-corp-problems on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/big-corp-problems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We must be innovative</title>
+      <link>https://martinspielmann.de/2023-02-23-we-must-be-innovative/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-02-23-we-must-be-innovative/</guid>
+      <description>Sure thing, we must explore new paths. And just because others have already gone down these paths does not mean that they are not new to us.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security Focus Mismatch</title>
+      <link>https://martinspielmann.de/2023-02-16-cyber-securify-focus-mismatch/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-02-16-cyber-securify-focus-mismatch/</guid>
+      <description>Next audit already in my calendar, not sure about the next attack though.</description>
+    </item>
+    
+    <item>
+      <title>Valuing your tech people 101</title>
+      <link>https://martinspielmann.de/2023-01-20-valuing-your-tech-people-101/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-01-20-valuing-your-tech-people-101/</guid>
+      <description>Save your praise for sales people.</description>
+    </item>
+    
+  </channel>
+</rss>

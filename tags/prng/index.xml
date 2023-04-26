@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prng on Martins Blog</title>
+    <link>https://martinspielmann.de/tags/prng/</link>
+    <description>Recent content in prng on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/prng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pseudo Random Bullshit Generator</title>
+      <link>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</guid>
+      <description>Basic building block of IT and especially InfoSec companies: Pseudo Random Bullsh*t Generators.</description>
+    </item>
+    
+  </channel>
+</rss>

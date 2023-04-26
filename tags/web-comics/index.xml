@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web-comics on Martins Blog</title>
+    <link>https://martinspielmann.de/tags/web-comics/</link>
+    <description>Recent content in web-comics on Martins Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/web-comics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pseudo Random Bullshit Generator</title>
+      <link>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</guid>
+      <description>Basic building block of IT and especially InfoSec companies: Pseudo Random Bullsh*t Generators.</description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment Planets</title>
+      <link>https://martinspielmann.de/2023-02-26-risk-assessment-planets/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-02-26-risk-assessment-planets/</guid>
+      <description>Risk of software vulnerabilities being created, risk of being hit by ransomware, &amp;hellip; Seems I found some universal rule here.</description>
+    </item>
+    
+    <item>
+      <title>We must be innovative</title>
+      <link>https://martinspielmann.de/2023-02-23-we-must-be-innovative/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-02-23-we-must-be-innovative/</guid>
+      <description>Sure thing, we must explore new paths. And just because others have already gone down these paths does not mean that they are not new to us.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security Focus Mismatch</title>
+      <link>https://martinspielmann.de/2023-02-16-cyber-securify-focus-mismatch/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-02-16-cyber-securify-focus-mismatch/</guid>
+      <description>Next audit already in my calendar, not sure about the next attack though.</description>
+    </item>
+    
+    <item>
+      <title>Valuing your tech people 101</title>
+      <link>https://martinspielmann.de/2023-01-20-valuing-your-tech-people-101/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinspielmann.de/2023-01-20-valuing-your-tech-people-101/</guid>
+      <description>Save your praise for sales people.</description>
+    </item>
+    
+  </channel>
+</rss>
