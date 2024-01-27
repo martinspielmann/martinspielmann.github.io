@@ -6,375 +6,294 @@
     <description>Recent content in Tags on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
+    <atom:link href="https://martinspielmann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>web-comics</title>
+      <link>https://martinspielmann.de/tags/web-comics/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinspielmann.de/tags/web-comics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>spielmannsstricknadel</title>
       <link>https://martinspielmann.de/tags/spielmannsstricknadel/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/spielmannsstricknadel/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>web-comics</title>
-      <link>https://martinspielmann.de/tags/web-comics/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://martinspielmann.de/tags/web-comics/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>c2</title>
       <link>https://martinspielmann.de/tags/c2/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/c2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>malware</title>
       <link>https://martinspielmann.de/tags/malware/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/malware/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>sad</title>
       <link>https://martinspielmann.de/tags/sad/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/sad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>csprng</title>
       <link>https://martinspielmann.de/tags/csprng/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/csprng/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>drbg</title>
       <link>https://martinspielmann.de/tags/drbg/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/drbg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>prbg</title>
       <link>https://martinspielmann.de/tags/prbg/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/prbg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>prng</title>
       <link>https://martinspielmann.de/tags/prng/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/prng/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>pancakeswap</title>
       <link>https://martinspielmann.de/tags/pancakeswap/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/pancakeswap/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>redline</title>
       <link>https://martinspielmann.de/tags/redline/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/redline/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>sniper-bot</title>
       <link>https://martinspielmann.de/tags/sniper-bot/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/sniper-bot/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>stealer</title>
       <link>https://martinspielmann.de/tags/stealer/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/stealer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>threat-intel</title>
       <link>https://martinspielmann.de/tags/threat-intel/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/threat-intel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ti</title>
       <link>https://martinspielmann.de/tags/ti/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/ti/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>uniswap</title>
       <link>https://martinspielmann.de/tags/uniswap/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/uniswap/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>risk-management</title>
       <link>https://martinspielmann.de/tags/risk-management/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/risk-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>big-corp-problems</title>
       <link>https://martinspielmann.de/tags/big-corp-problems/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/big-corp-problems/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cyber-security</title>
       <link>https://martinspielmann.de/tags/cyber-security/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/cyber-security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>log4j</title>
       <link>https://martinspielmann.de/tags/log4j/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/log4j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>log4shell</title>
       <link>https://martinspielmann.de/tags/log4shell/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/log4shell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>open source</title>
       <link>https://martinspielmann.de/tags/open-source/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>infosec</title>
       <link>https://martinspielmann.de/tags/infosec/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/infosec/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>offensive-journey</title>
       <link>https://martinspielmann.de/tags/offensive-journey/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/offensive-journey/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>pentesing</title>
       <link>https://martinspielmann.de/tags/pentesing/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/pentesing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>security-research</title>
       <link>https://martinspielmann.de/tags/security-research/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/security-research/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>clickbait</title>
       <link>https://martinspielmann.de/tags/clickbait/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/clickbait/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>productiviy</title>
       <link>https://martinspielmann.de/tags/productiviy/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/productiviy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>time management</title>
       <link>https://martinspielmann.de/tags/time-management/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/time-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>design thinking</title>
       <link>https://martinspielmann.de/tags/design-thinking/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/design-thinking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>protoduction</title>
       <link>https://martinspielmann.de/tags/protoduction/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/protoduction/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>prototyping</title>
       <link>https://martinspielmann.de/tags/prototyping/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/prototyping/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>bugs</title>
       <link>https://martinspielmann.de/tags/bugs/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/bugs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hashset</title>
       <link>https://martinspielmann.de/tags/hashset/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/hashset/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>java</title>
       <link>https://martinspielmann.de/tags/java/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/java/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>performance</title>
       <link>https://martinspielmann.de/tags/performance/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/performance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>removeall</title>
       <link>https://martinspielmann.de/tags/removeall/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/removeall/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>docker</title>
       <link>https://martinspielmann.de/tags/docker/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>misconfiguration</title>
       <link>https://martinspielmann.de/tags/misconfiguration/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/misconfiguration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ufw</title>
       <link>https://martinspielmann.de/tags/ufw/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/tags/ufw/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>meta</title>
       <link>https://martinspielmann.de/tags/meta/</link>
       <pubDate>Thu, 20 Feb 2020 12:50:48 +0100</pubDate>
-      
       <guid>https://martinspielmann.de/tags/meta/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -6,16 +6,14 @@
     <description>Recent content in docker on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
+    <atom:link href="https://martinspielmann.de/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker and UFW</title>
       <link>https://martinspielmann.de/2020-02-21-docker-and-ufw/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://martinspielmann.de/2020-02-21-docker-and-ufw/</guid>
-      <description>The way Docker manipulates iptables actually bypasses ufw, which is the default firewall on Ubuntu systems. You can block a port, spin up a container and in a blink of an eye the blocked port will be open again. It will even bypass Any/Any/Deny rules. To make the magic happen just follow the steps below.
-Details Lets see how to reproduce this in detail with the example of a Tomcat container.</description>
+      <description>The way Docker manipulates iptables actually bypasses ufw, which is the default firewall on Ubuntu systems. You can block a port, spin up a container and in a blink of an eye the blocked port will be open again. It will even bypass Any/Any/Deny rules. To make the magic happen just follow the steps below.&#xA;Details Lets see how to reproduce this in detail with the example of a Tomcat container.</description>
     </item>
-    
   </channel>
 </rss>
