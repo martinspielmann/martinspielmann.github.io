@@ -6,14 +6,17 @@
     <description>Recent content in pancakeswap on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
-    <atom:link href="https://martinspielmann.de/tags/pancakeswap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/pancakeswap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pew Pew - sniper bots on Github to deliver RedLine Stealer</title>
       <link>https://martinspielmann.de/2023-03-03-kadenio-uniswap-pancakeswap-sniper-bot/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://martinspielmann.de/2023-03-03-kadenio-uniswap-pancakeswap-sniper-bot/</guid>
-      <description>Today, I came across an executable called uniswap-sniperbot-setup.exe that cought my attention. I had no idea what Uniswap and what a sniper bot is.&#xA;If you are as curious as me: Uniswap is a crypto, web3, NFT, whatever protocol. And a sniper bot is a program that automates &amp;lsquo;sniping&amp;rsquo;, or placing a last-second bid on an auction item.&#xA;Running the executable in a sandbox revealed that it bundles RedLine Stealer malware.</description>
+      <description>Today, I came across an executable called uniswap-sniperbot-setup.exe that cought my attention. I had no idea what Uniswap and what a sniper bot is.
+If you are as curious as me: Uniswap is a crypto, web3, NFT, whatever protocol. And a sniper bot is a program that automates &amp;lsquo;sniping&amp;rsquo;, or placing a last-second bid on an auction item.
+Running the executable in a sandbox revealed that it bundles RedLine Stealer malware.</description>
     </item>
+    
   </channel>
 </rss>

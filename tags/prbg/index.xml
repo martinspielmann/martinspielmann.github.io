@@ -6,14 +6,15 @@
     <description>Recent content in prbg on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
-    <atom:link href="https://martinspielmann.de/tags/prbg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/prbg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pseudo Random Bullshit Generator</title>
       <link>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://martinspielmann.de/2023-03-23-pseudo-random-bullshit-generator/</guid>
       <description>Basic building block of IT and especially InfoSec companies: Pseudo Random Bullsh*t Generators.</description>
     </item>
+    
   </channel>
 </rss>

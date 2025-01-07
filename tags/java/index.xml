@@ -6,14 +6,17 @@
     <description>Recent content in java on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
-    <atom:link href="https://martinspielmann.de/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subtle bug in Java standard library</title>
       <link>https://martinspielmann.de/2020-04-13-java-remove-all-performance/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martinspielmann.de/2020-04-13-java-remove-all-performance/</guid>
-      <description>I stumbled over an interesting Tweet from @relizarov stating&#xA;OMG! 😱Don&amp;rsquo;t use Set.removeAll(list) on JVM. You can get O(N^2). I have no words. Only emotions.&#xA;As I cound not believe that in the first place, I digged a little deeper and learned about a bug in the Java HashSet implementation with a very long history and finally a fix in sight. It provides a great insight into the complexity of simple things.</description>
+      <description>I stumbled over an interesting Tweet from @relizarov stating
+OMG! 😱Don&amp;rsquo;t use Set.removeAll(list) on JVM. You can get O(N^2). I have no words. Only emotions.
+As I cound not believe that in the first place, I digged a little deeper and learned about a bug in the Java HashSet implementation with a very long history and finally a fix in sight. It provides a great insight into the complexity of simple things.</description>
     </item>
+    
   </channel>
 </rss>

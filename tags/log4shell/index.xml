@@ -6,14 +6,19 @@
     <description>Recent content in log4shell on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
-    <atom:link href="https://martinspielmann.de/tags/log4shell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/log4shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was bei Log4Shell falsch läuft</title>
       <link>https://martinspielmann.de/2020-12-14-was-bei-log4shell-falsch-laeuft/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martinspielmann.de/2020-12-14-was-bei-log4shell-falsch-laeuft/</guid>
-      <description>Ich muss mich mal auskotzen. Nicht über die Lücke selbst und den Fallout, der uns sicher noch die nächsten Monate begleiten wird, schlimm genug.&#xA;Sondern über Leute, die jetzt tatsächlich meinen, die log4j Maintainer anranzen zu müssen.&#xA;Was sind das für Anfänger? Die sollten das bezahlen! Nicht zu fassen sowas!&amp;quot;&#xA;&amp;hellip;wacht mal auf!&#xA;Die Maintainer sind drei Menschen, die ein Projekt am Fliegen halten, das millionenfach in Unternehmen überall auf der Welt genutzt wird.</description>
+      <description>Ich muss mich mal auskotzen. Nicht über die Lücke selbst und den Fallout, der uns sicher noch die nächsten Monate begleiten wird, schlimm genug.
+Sondern über Leute, die jetzt tatsächlich meinen, die log4j Maintainer anranzen zu müssen.
+Was sind das für Anfänger? Die sollten das bezahlen! Nicht zu fassen sowas!&amp;quot;
+&amp;hellip;wacht mal auf!
+Die Maintainer sind drei Menschen, die ein Projekt am Fliegen halten, das millionenfach in Unternehmen überall auf der Welt genutzt wird.</description>
     </item>
+    
   </channel>
 </rss>

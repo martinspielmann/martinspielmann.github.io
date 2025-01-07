@@ -6,14 +6,15 @@
     <description>Recent content in risk-management on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2024 23:32:13 +0100</lastBuildDate>
-    <atom:link href="https://martinspielmann.de/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://martinspielmann.de/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Risk Assessment Planets</title>
       <link>https://martinspielmann.de/2023-02-26-risk-assessment-planets/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://martinspielmann.de/2023-02-26-risk-assessment-planets/</guid>
       <description>Risk of software vulnerabilities being created, risk of being hit by ransomware, &amp;hellip; Seems I found some universal rule here.</description>
     </item>
+    
   </channel>
 </rss>
